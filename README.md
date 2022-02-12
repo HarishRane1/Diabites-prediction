@@ -26,6 +26,8 @@ SCREENSHOTS OF PROJECT DEPLOYMENT
 
 ![Screenshot (219)](https://user-images.githubusercontent.com/51317454/153716560-c8ac25ca-7d7f-4a43-8cfa-4ab756999031.png)
 
+VIDEO URL WORKING AND ACCESSIBLE
+
 ![Screenshot (220)](https://user-images.githubusercontent.com/51317454/153716597-94d1d9f4-0e3b-4ec8-99c1-309435c0fa4e.png)
 
 ![Screenshot (221)](https://user-images.githubusercontent.com/51317454/153716610-ee4453a0-7442-43e5-a40e-fa17ccdd2b08.png)
