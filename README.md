@@ -3,6 +3,8 @@
 
 Project URL: https://harishdiabiteasetracker.azurewebsites.net/
 
+Video URL: https://drive.google.com/file/d/1KptO3NyFPyiR1XCrUaFz4w7R8dW4JTr7/view?usp=sharing
+
 • This repository consists of files required to deploy a ___Web App___ created with ___Flask___ on ___Microsoft___ Azure.# diabetes_predictor
 The project helps the user to identify whether someone is suffering from diabetes by simply inputting certain values like BMI, Glucose level, Blood pressure etc. with the help of a Kaggle database.
 
